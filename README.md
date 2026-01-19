@@ -7,7 +7,7 @@ Tavoitteeni on kehittää vahva ymmärrys ohjelmistokehityksen parhaista käytä
 ## 💻 Teknologiat ja työkalut
 - **Ohjelmointikielet:** C++, Python, Java (perustasolla)  
 - **Työkalut:** Git, GitHub, Visual Studio, VS Code  
-- **Käyttöjärjestelmät:** Ubuntu Linux (kehitykseen optimoitu)  
+- **Käyttöjärjestelmät:** Mint Linux (kehitykseen optimoitu)  
 - **Konseptit:** Olio-ohjelmointi, algoritmit, tietorakenteet, ohjelmistosuunnittelu  
 
 ## 🚀 Tavoitteeni
