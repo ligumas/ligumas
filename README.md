@@ -1,4 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ligumas&color=blue)# 👋 Hei, olen Jasper
+![Profile Views](https://komarev.com/ghpvc/?username=ligumas&color=blue)
+# 👋 Hei, olen Jasper
 
 Opiskelen ohjelmistokehittäjäksi Winnovalla ja intohimoni on ohjelmointi, erityisesti **C++**. Olen kiinnostunut **ohjelmistosuunnittelusta, algoritmeista ja puhtaasta, tehokkaasta koodista**.
 
