@@ -1,23 +1,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ligumas&color=blue)
-# 👋 Hei, olen Jasper
+Hi, I’m Jasper
 
-Opiskelen ohjelmistokehittäjäksi Winnovalla ja intohimoni on ohjelmointi, erityisesti **C++**. Olen kiinnostunut **ohjelmistosuunnittelusta, algoritmeista ja puhtaasta, tehokkaasta koodista**.
+I’m studying software development at Winnova, focusing mainly on C++ programming. I enjoy learning how software works under the hood and building clean, efficient solutions with a strong focus on logic and structure.
 
-Tavoitteeni on kehittää vahva ymmärrys ohjelmistokehityksen parhaista käytännöistä ja rakentaa kestäviä, älykkäitä ohjelmistoratkaisuja, jotka eivät pelkästään toimi, vaan myös inspiroivat.  
-
-## 💻 Teknologiat ja työkalut
-- **Ohjelmointikielet:** C++, Python, Java (perustasolla)  
-- **Työkalut:** Git, GitHub, Visual Studio, VS Code  
-- **Käyttöjärjestelmät:** Mint Linux (kehitykseen optimoitu)  
-- **Konseptit:** Olio-ohjelmointi, algoritmit, tietorakenteet, ohjelmistosuunnittelu  
-
-## 🚀 Tavoitteeni
-- Syventää osaamistani **C++-ohjelmoinnissa** ja ohjelmistokehityksen kokonaisuudessa  
-- Rakentaa projektipohjaisia portfolioita, jotka osoittavat **teknisen kyvykkyyden ja ongelmanratkaisutaidot**  
-- Kehittyä ohjelmistokehittäjäksi, joka voi työskennellä sekä itsenäisesti että tiimissä vaativien projektien parissa  
-
-## 📫 Ota yhteyttä
-- Sähköposti: jasperkylvaja@gmail.com 
-- GitHub: (https://github.com/ligumas)
-
-_"Koodi ei ole vain työkalu; se on tapa ajatella ja ratkaista ongelmia älykkäästi."_  
+💻 Skills & Tools
+Language: C++
+Tools: Git, GitHub, VS Code, Visual Studio
+OS: Debian Linux 🐧
+Focus: Algorithms, data structures, software design basics
+🚀 Goals
+Improve my C++ skills and programming fundamentals
+Build small but solid projects for my portfolio
+Grow into a developer who understands how software is built from the ground up
