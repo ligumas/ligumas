@@ -1,4 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ligumas&color=blue)
+
 Hi, I’m Jasper
 
 I’m studying software development at Winnova, focusing mainly on C++ programming. I enjoy learning how software works under the hood and building clean, efficient solutions with a strong focus on logic and structure.
