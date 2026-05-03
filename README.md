@@ -62,8 +62,8 @@ When I'm not staring at a segfault wondering why it worked five minutes ago, I'm
 
 <br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ligumas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&count_private=true&hide=contribs" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligumas&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ligumas&theme=github_dark" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ligumas&theme=github_dark" />
 
 <br/><br/>
 
