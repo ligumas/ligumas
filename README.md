@@ -64,15 +64,16 @@ When I'm not staring at a segfault wondering why it worked five minutes ago, I'm
 
 <br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ligumas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&count_private=true&hide=contribs" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligumas&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" />
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ligumas&theme=github_dark" />
+ <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ligumas&theme=github_dark" />
+</p>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=ligumas&hide_border=true&background=0d1117&ring=8b949e&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=484f58&stroke=0d1117" />
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ligumas&hide_border=true&theme=tokyonight" />
+</p>
 
 
 
