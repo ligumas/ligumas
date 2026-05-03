@@ -58,6 +58,8 @@ When I'm not staring at a segfault wondering why it worked five minutes ago, I'm
 
 <div align="center">
 
+
+
 ### GitHub Stats
 
 <br/>
@@ -70,6 +72,9 @@ When I'm not staring at a segfault wondering why it worked five minutes ago, I'm
 <img src="https://streak-stats.demolab.com/?user=ligumas&hide_border=true&background=0d1117&ring=8b949e&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=484f58&stroke=0d1117" />
 
 </div>
+
+
+
 
 ---
 
